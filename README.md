@@ -5,8 +5,7 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
-  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"<font style="vertical-align: inherit;"><font style="vertical-align: inherit;"># 0A66C2</font></font>
-</a>
+  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a target="_blank" href="https://www.twitter.com/BarbaraBateli">
   <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

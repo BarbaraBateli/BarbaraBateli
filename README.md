@@ -3,6 +3,7 @@
 ### Associado de vendas sênior, se aventurando em tecnologia! 📱 🌍
 
 
+
 <a target="_blank" href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +13,8 @@
 <a target="_blank" href="mailto:barbarabateli@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
+
 
 ![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 <!--

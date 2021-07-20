@@ -6,6 +6,9 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
+Ícone do LinkedIn
+  
 <a target="_blank" href="https://www.twitter.com/BarbaraBateli">
   <img align="center" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

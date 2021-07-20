@@ -12,7 +12,8 @@
 <a target="_blank" href="mailto:barbarabateli@gmail.com">
   <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-![](https://www.codewars.com/users/BarbaraBateli/badges/small)
+
+![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 <!--
 **BarbaraBateli/BarbaraBateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

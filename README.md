@@ -1,9 +1,8 @@
-# Hi there 👋 , I'm Barbara!  :máscara:
+# Olá 👋, sou a Bárbara!  😷
+## Desenvolvimento do Junior Full Stack! 💻
+### Associado de vendas sênior, se aventurando em tecnologia! 📱 🌍
 
-## Junior Full Stack developer :computador:
-### Senior sales associate, venturing into technology! :iphone:
-
-```html
+```
 <a target="_blank" href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
   <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

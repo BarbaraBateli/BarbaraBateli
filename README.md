@@ -1,4 +1,5 @@
-# Hi there 👋 , I'm Barbara! :máscara:
+# Hi there 👋 , I'm Barbara!  :máscara:
+
 ## Junior Full Stack developer :computador:
 ### Senior sales associate, venturing into technology! :iphone:
 

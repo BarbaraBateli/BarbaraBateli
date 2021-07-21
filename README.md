@@ -20,26 +20,31 @@
 <div>
 <img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
 "400" height = "330" / >
-</div>
+</div> 
+  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge) 
- 
-<div style = "display: inline_block"> <br>
- 
- 
+
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
- 
- 
-</div>
-</br>
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 ![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 
 
 <div>
-<img align="left" height = "137px" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&hide_title=true&hide_border=true&show_icons = true & include_all_commits = true & count_private = true & line_height = 21 & text_color = 000 & icon_color = 000 & bg_color = 0, ea6161, ffc64d, fffc4d, 52fa5a & theme = greywhite "/> <! - wi * quL3fcV =" altura / 137 /github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBateli&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-text2&dficon= c64dff & theme = graywhite "/> </div>
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&show_icons=true&count_private=true&theme=shades-of-purple" />
+  
+  
+ <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraBateli&layout=compact&count_private=true&theme=shades-of-purple" />
+</div>

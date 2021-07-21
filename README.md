@@ -12,13 +12,20 @@
 <img align = "left" alt = "Barbara Bateli | Twitter" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 
+
+<div>
 <img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
 "500" height = "320" / >
 
  </div> 
  
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge) 
+ 
+ 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge)
+
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)

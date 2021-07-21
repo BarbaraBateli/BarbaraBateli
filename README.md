@@ -18,8 +18,8 @@
 </br>
 
 <div>
-<img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
-"400" height = "330" / >
+ <img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
+"450" height = "350" / >
 </div> 
   
 

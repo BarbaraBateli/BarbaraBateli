@@ -17,8 +17,10 @@
 <a href="[https://twitter.com/](https://twitter.com/BarbaraBateli)">
 <img align = "left" alt = "Barbara Bateli | Twitter" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
- 
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge) 
+
 
 </div>
 </br>

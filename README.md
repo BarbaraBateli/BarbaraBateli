@@ -41,5 +41,3 @@
 
 ![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 
-
-![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraBateli&theme-THEME_shades-of-purple=dark&show_icons=true)

@@ -39,8 +39,7 @@
 </div>
 </br>
 
-![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/large)
-
+![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 <!--
 **BarbaraBateli/BarbaraBateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

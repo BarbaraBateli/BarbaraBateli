@@ -1,8 +1,11 @@
 ## Oiii! Sou a Barbara Bateli! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px">
 
-## Desenvolvimento do Junior Full Stack! 💻
+### Desenvolvimento do Junior Full Stack! 💻
 
-### Associado de vendas sênior, se aventurando em tecnologia! 📱 🌍
+### Consultora de vendas sênior!
+
+###  Se aventurando em tecnologia! 📱 🌍
+
 
 <div style = "display: inline_block"><br/>
  

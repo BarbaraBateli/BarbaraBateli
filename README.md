@@ -52,14 +52,11 @@ Linguagens e ferramentas:
 
 
 <div>
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&show_icons=true&count_private=true&theme=shades-of-purple" width="400" height="260" />
-</div>
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&show_icons=true&count_private=true&theme=shades-of-purple" width="400" height="250" />
+  </div> 
  
  
- 
- 
- 
- 
+
  
  
  

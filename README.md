@@ -9,22 +9,19 @@
 
 <div style = "display: inline_block"><br/>
  
-
- 
-<a target="_blank" href="[mailto:barbarabateli@gmail.com]"> <img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor = white " width = "80px"> </img> </a> 
-</div> 
 <a href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
-  <img align = "left" alt = "Barbara's LinkedIN" width = "30px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align = "left" alt = "Barbara's LinkedIN" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="[https://twitter.com/](https://twitter.com/BarbaraBateli)">
-<img align = "left" alt = "Barbara Bateli | Twitter" width = "30px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+<img align = "left" alt = "Barbara Bateli | Twitter" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
-
-
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge) 
 
 
+ 
+ 
+<a target="_blank" href="[mailto:barbarabateli@gmail.com]"> <img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor = white " width = "70px"> </img> </a> 
 </div>
 </br>
 

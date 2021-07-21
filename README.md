@@ -28,19 +28,18 @@
 
 
 <div style = "display: inline_block"> <br>
- 
-<a href="https://reactjs.org/" title="React"> <img src = "https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png" /> </a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src = "https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /> </a>
-</div>
-</br>
-  
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+</div>
+</br>
 
-![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
+![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/large)
 
 <!--
 **BarbaraBateli/BarbaraBateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

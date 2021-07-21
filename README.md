@@ -16,6 +16,8 @@
 </div>
 </br>
 
+
+
 <div>
  <img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
 "400" height = "350" / >
@@ -29,7 +31,7 @@
 
 <a target="_blank" href="[mailto:barbarabateli@gmail.com]"> <img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor = white " width = "80px"> </img> </a> 
 </div>
-</br>
+
 
 
 

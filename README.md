@@ -42,13 +42,11 @@
 ![CodeWars](https://www.codewars.com/users/BarbaraBateli/badges/small)
 
 
-
-
+ 
 <div>
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&show_icons=true&count_private=true&theme=shades-of-purple" />
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=BarbaraBateli&show_icons=true&count_private=true&theme=shades-of-purple" width="400" height="220" />
   
 </div>
- 
  
  
  

@@ -9,6 +9,8 @@
 
 <div style = "display: inline_block"><br/>
  
+<a target="_blank" href="[mailto:barbarabateli@gmail.com]"> <img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor = white " width = "70px"> </img> </a> 
+
 <a href="https://www.linkedin.com/in/barbara-bateli-claro-alves/">
   <img align = "left" alt = "Barbara's LinkedIN" width = "22px" src = "https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -18,26 +20,13 @@
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BarbaraBateli.visitor-badge) 
 
-
- 
- 
-<a target="_blank" href="[mailto:barbarabateli@gmail.com]"> <img src = "https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor = white " width = "70px"> </img> </a> 
 </div>
 </br>
-
-
-
-
-
 
 <div>
  <img align = "right" alt = "GIF" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU" width =
 "400" height = "350" / >
 </div> 
-
-
-
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
